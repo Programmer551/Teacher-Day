@@ -1,9 +1,10 @@
 body {
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
 }
 section {
-  height: 150vh;
+  height: 200vh;
   background: #000;
 }
 section:before {
